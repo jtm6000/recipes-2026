@@ -1,7 +1,7 @@
      
-Pasta you can do literally anytime
+# Pasta you can do literally anytime
 
-Ingredients:
+## Ingredients:
 - Angel Hair / Linguini (apex noodle pasta)
 - Olive oil
 - Garlic
@@ -12,8 +12,8 @@ Ingredients:
 - White Wine
 - crushed red pepper
 
-Instructions:
-- boil pasta to package time instructions (use lower number or lower number -1, you need al dente)
+## Instructions:
+- boil pasta to package time instructions **(use lower number or lower number -1, you need al dente)**
 - Oil in pan
 - Garlic like a minute barely
 - add clams/juice/white wine (healthy splash)
